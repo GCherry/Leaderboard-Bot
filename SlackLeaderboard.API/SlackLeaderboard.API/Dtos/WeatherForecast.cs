@@ -1,6 +1,6 @@
 using System;
 
-namespace SlackLeaderboard.API
+namespace SlackLeaderboard.API.Dtos
 {
     public class WeatherForecast
     {

@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Logging;
+using SlackLeaderboard.API.Dtos;
 using SlackLeaderboard.API.Interfaces;
 
 namespace SlackLeaderboard.API.Controllers
