@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30320.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackLeaderboard.API", "SlackLeaderboard.API\SlackLeaderboard.API.csproj", "{7FC36AEC-831E-42E9-8086-9C2AEC31AF7B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SlackLeaderboard.Test.Specflow", "SlackLeaderboard.Test.Specflow\SlackLeaderboard.Test.Specflow.csproj", "{E8040AF1-43C3-4AF5-B80C-7AF1F77B4757}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7FC36AEC-831E-42E9-8086-9C2AEC31AF7B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7FC36AEC-831E-42E9-8086-9C2AEC31AF7B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7FC36AEC-831E-42E9-8086-9C2AEC31AF7B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7FC36AEC-831E-42E9-8086-9C2AEC31AF7B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E8040AF1-43C3-4AF5-B80C-7AF1F77B4757}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E8040AF1-43C3-4AF5-B80C-7AF1F77B4757}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E8040AF1-43C3-4AF5-B80C-7AF1F77B4757}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E8040AF1-43C3-4AF5-B80C-7AF1F77B4757}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4C0EEB5F-B0D3-421E-B02F-287DF453E411}
+	EndGlobalSection
+EndGlobal
