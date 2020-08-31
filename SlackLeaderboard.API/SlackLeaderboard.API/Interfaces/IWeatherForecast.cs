@@ -1,4 +1,4 @@
-﻿using SlackLeaderboard.API.Dtos;
+﻿using SlackLeaderboard.API.Models;
 using System.Collections.Generic;
 
 namespace SlackLeaderboard.API.Interfaces

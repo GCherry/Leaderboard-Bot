@@ -1,9 +1,8 @@
-﻿using SlackLeaderboard.API.Dtos;
-using SlackLeaderboard.API.Interfaces;
+﻿using SlackLeaderboard.API.Interfaces;
+using SlackLeaderboard.API.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Threading.Tasks;
 
 namespace SlackLeaderboard.API.Services
 {

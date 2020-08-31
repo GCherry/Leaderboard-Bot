@@ -23,6 +23,9 @@ namespace SlackLeaderboard.API
         {
             services.AddControllers();
             services.AddTransient<IWeatherForecast, WeatherForecastService>();
+       
+            services.AddHttpClient();
+            services.AddTransient<IJokeService, JokeService>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

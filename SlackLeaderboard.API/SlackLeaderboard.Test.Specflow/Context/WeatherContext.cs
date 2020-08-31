@@ -4,7 +4,7 @@ using System.Text;
 
 namespace SlackLeaderboard.Test.Specflow.Context
 {
-    class WeatherContext
+    public class WeatherContext
     {
     }
 }
